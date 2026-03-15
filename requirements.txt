@@ -1,0 +1,2 @@
+borsapy
+python-telegram-bot[job-queue]
